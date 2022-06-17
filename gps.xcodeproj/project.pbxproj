@@ -24,6 +24,20 @@
 		D30FB85A1F74B49800F211BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3B284E5285CC7590001FB7B /* 03-101世貿.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "03-101世貿.gpx"; sourceTree = "<group>"; };
+		D3B284E6285CC8180001FB7B /* 04-信義安和.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "04-信義安和.gpx"; sourceTree = "<group>"; };
+		D3B284E7285CC8BF0001FB7B /* 05-大安.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "05-大安.gpx"; sourceTree = "<group>"; };
+		D3B284E8285CC8CE0001FB7B /* 06-大安森林公園.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "06-大安森林公園.gpx"; sourceTree = "<group>"; };
+		D3B284E9285CC8D50001FB7B /* 08-中正紀念堂.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "08-中正紀念堂.gpx"; sourceTree = "<group>"; };
+		D3B284EA285CC8DB0001FB7B /* 07-東門.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "07-東門.gpx"; sourceTree = "<group>"; };
+		D3B284EB285CC8E10001FB7B /* 14-圓山.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "14-圓山.gpx"; sourceTree = "<group>"; };
+		D3B284EC285CC8E80001FB7B /* 09-台大醫院.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "09-台大醫院.gpx"; sourceTree = "<group>"; };
+		D3B284ED285CC8F50001FB7B /* 12-雙連.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "12-雙連.gpx"; sourceTree = "<group>"; };
+		D3B284EE285CC8FB0001FB7B /* 13-民權西路.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "13-民權西路.gpx"; sourceTree = "<group>"; };
+		D3B284EF285CC9010001FB7B /* 10-台北車站.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "10-台北車站.gpx"; sourceTree = "<group>"; };
+		D3B284F0285CC9080001FB7B /* 11-中山.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "11-中山.gpx"; sourceTree = "<group>"; };
+		D3B284F2285CC9A50001FB7B /* 15-劍潭.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "15-劍潭.gpx"; sourceTree = "<group>"; };
+		D3B284F3285CC9B40001FB7B /* 16-士林.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "16-士林.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +72,20 @@
 			children = (
 				D30FB8501F74B49800F211BE /* AppDelegate.swift */,
 				D30FB8521F74B49800F211BE /* ViewController.swift */,
+				D3B284E5285CC7590001FB7B /* 03-101世貿.gpx */,
+				D3B284E6285CC8180001FB7B /* 04-信義安和.gpx */,
+				D3B284E7285CC8BF0001FB7B /* 05-大安.gpx */,
+				D3B284E8285CC8CE0001FB7B /* 06-大安森林公園.gpx */,
+				D3B284EA285CC8DB0001FB7B /* 07-東門.gpx */,
+				D3B284E9285CC8D50001FB7B /* 08-中正紀念堂.gpx */,
+				D3B284EC285CC8E80001FB7B /* 09-台大醫院.gpx */,
+				D3B284EF285CC9010001FB7B /* 10-台北車站.gpx */,
+				D3B284F0285CC9080001FB7B /* 11-中山.gpx */,
+				D3B284ED285CC8F50001FB7B /* 12-雙連.gpx */,
+				D3B284EE285CC8FB0001FB7B /* 13-民權西路.gpx */,
+				D3B284EB285CC8E10001FB7B /* 14-圓山.gpx */,
+				D3B284F2285CC9A50001FB7B /* 15-劍潭.gpx */,
+				D3B284F3285CC9B40001FB7B /* 16-士林.gpx */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
