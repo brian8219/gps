@@ -13,6 +13,17 @@
 		D30FB8591F74B49800F211BE /* gps.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D30FB8571F74B49800F211BE /* gps.xcdatamodeld */; };
 		D30FB85B1F74B49800F211BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D30FB85A1F74B49800F211BE /* Assets.xcassets */; };
 		D30FB85E1F74B49800F211BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */; };
+		D3B28517285DE7F00001FB7B /* G07-公館.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B2850C285DE7F00001FB7B /* G07-公館.gpx */; };
+		D3B28518285DE7F00001FB7B /* G14-中山.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B2850D285DE7F00001FB7B /* G14-中山.gpx */; };
+		D3B28519285DE7F00001FB7B /* G18-南京三民.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B2850E285DE7F00001FB7B /* G18-南京三民.gpx */; };
+		D3B2851A285DE7F00001FB7B /* G17-台北小巨蛋.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B2850F285DE7F00001FB7B /* G17-台北小巨蛋.gpx */; };
+		D3B2851B285DE7F00001FB7B /* G12-西門.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28510285DE7F00001FB7B /* G12-西門.gpx */; };
+		D3B2851C285DE7F00001FB7B /* G08-台電大樓.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28511285DE7F00001FB7B /* G08-台電大樓.gpx */; };
+		D3B2851D285DE7F00001FB7B /* G10-中正紀念堂.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28512285DE7F00001FB7B /* G10-中正紀念堂.gpx */; };
+		D3B2851E285DE7F00001FB7B /* G09-古亭.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28513285DE7F00001FB7B /* G09-古亭.gpx */; };
+		D3B2851F285DE7F00001FB7B /* G15-松江南京.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28514285DE7F00001FB7B /* G15-松江南京.gpx */; };
+		D3B28520285DE7F00001FB7B /* G13-北門.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28515285DE7F00001FB7B /* G13-北門.gpx */; };
+		D3B28521285DE7F00001FB7B /* G11-小南門.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28516285DE7F00001FB7B /* G11-小南門.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,18 @@
 		D30FB85A1F74B49800F211BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3B2850C285DE7F00001FB7B /* G07-公館.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G07-公館.gpx"; sourceTree = "<group>"; };
+		D3B2850D285DE7F00001FB7B /* G14-中山.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G14-中山.gpx"; sourceTree = "<group>"; };
+		D3B2850E285DE7F00001FB7B /* G18-南京三民.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G18-南京三民.gpx"; sourceTree = "<group>"; };
+		D3B2850F285DE7F00001FB7B /* G17-台北小巨蛋.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G17-台北小巨蛋.gpx"; sourceTree = "<group>"; };
+		D3B28510285DE7F00001FB7B /* G12-西門.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G12-西門.gpx"; sourceTree = "<group>"; };
+		D3B28511285DE7F00001FB7B /* G08-台電大樓.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G08-台電大樓.gpx"; sourceTree = "<group>"; };
+		D3B28512285DE7F00001FB7B /* G10-中正紀念堂.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G10-中正紀念堂.gpx"; sourceTree = "<group>"; };
+		D3B28513285DE7F00001FB7B /* G09-古亭.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G09-古亭.gpx"; sourceTree = "<group>"; };
+		D3B28514285DE7F00001FB7B /* G15-松江南京.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G15-松江南京.gpx"; sourceTree = "<group>"; };
+		D3B28515285DE7F00001FB7B /* G13-北門.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G13-北門.gpx"; sourceTree = "<group>"; };
+		D3B28516285DE7F00001FB7B /* G11-小南門.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G11-小南門.gpx"; sourceTree = "<group>"; };
+		D3B28522285DE8E10001FB7B /* G16-南京復興.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G16-南京復興.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +81,18 @@
 			children = (
 				D30FB8501F74B49800F211BE /* AppDelegate.swift */,
 				D30FB8521F74B49800F211BE /* ViewController.swift */,
+				D3B2850C285DE7F00001FB7B /* G07-公館.gpx */,
+				D3B28511285DE7F00001FB7B /* G08-台電大樓.gpx */,
+				D3B28513285DE7F00001FB7B /* G09-古亭.gpx */,
+				D3B28512285DE7F00001FB7B /* G10-中正紀念堂.gpx */,
+				D3B28516285DE7F00001FB7B /* G11-小南門.gpx */,
+				D3B28510285DE7F00001FB7B /* G12-西門.gpx */,
+				D3B28515285DE7F00001FB7B /* G13-北門.gpx */,
+				D3B2850D285DE7F00001FB7B /* G14-中山.gpx */,
+				D3B28514285DE7F00001FB7B /* G15-松江南京.gpx */,
+				D3B28522285DE8E10001FB7B /* G16-南京復興.gpx */,
+				D3B2850F285DE7F00001FB7B /* G17-台北小巨蛋.gpx */,
+				D3B2850E285DE7F00001FB7B /* G18-南京三民.gpx */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
@@ -127,9 +162,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3B2851B285DE7F00001FB7B /* G12-西門.gpx in Resources */,
+				D3B28518285DE7F00001FB7B /* G14-中山.gpx in Resources */,
+				D3B28519285DE7F00001FB7B /* G18-南京三民.gpx in Resources */,
+				D3B2851E285DE7F00001FB7B /* G09-古亭.gpx in Resources */,
 				D30FB85E1F74B49800F211BE /* LaunchScreen.storyboard in Resources */,
+				D3B28517285DE7F00001FB7B /* G07-公館.gpx in Resources */,
+				D3B2851D285DE7F00001FB7B /* G10-中正紀念堂.gpx in Resources */,
+				D3B28520285DE7F00001FB7B /* G13-北門.gpx in Resources */,
 				D30FB85B1F74B49800F211BE /* Assets.xcassets in Resources */,
 				D30FB8561F74B49800F211BE /* Main.storyboard in Resources */,
+				D3B2851C285DE7F00001FB7B /* G08-台電大樓.gpx in Resources */,
+				D3B2851F285DE7F00001FB7B /* G15-松江南京.gpx in Resources */,
+				D3B2851A285DE7F00001FB7B /* G17-台北小巨蛋.gpx in Resources */,
+				D3B28521285DE7F00001FB7B /* G11-小南門.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
