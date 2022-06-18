@@ -13,6 +13,14 @@
 		D30FB8591F74B49800F211BE /* gps.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D30FB8571F74B49800F211BE /* gps.xcdatamodeld */; };
 		D30FB85B1F74B49800F211BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D30FB85A1F74B49800F211BE /* Assets.xcassets */; };
 		D30FB85E1F74B49800F211BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */; };
+		D3B2852B285DEAA60001FB7B /* O06 東門.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28523285DEAA60001FB7B /* O06 東門.gpx */; };
+		D3B2852C285DEAA60001FB7B /* O07 忠孝新生.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28524285DEAA60001FB7B /* O07 忠孝新生.gpx */; };
+		D3B2852D285DEAA60001FB7B /* O05 古亭.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28525285DEAA60001FB7B /* O05 古亭.gpx */; };
+		D3B2852E285DEAA60001FB7B /* O03 永安市場.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28526285DEAA60001FB7B /* O03 永安市場.gpx */; };
+		D3B2852F285DEAA60001FB7B /* O09 行天宮.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28527285DEAA60001FB7B /* O09 行天宮.gpx */; };
+		D3B28530285DEAA60001FB7B /* O04 頂溪.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28528285DEAA60001FB7B /* O04 頂溪.gpx */; };
+		D3B28531285DEAA60001FB7B /* O10 中山國小.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28529285DEAA60001FB7B /* O10 中山國小.gpx */; };
+		D3B28532285DEAA60001FB7B /* O08 松江南京.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B2852A285DEAA60001FB7B /* O08 松江南京.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,14 @@
 		D30FB85A1F74B49800F211BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3B28523285DEAA60001FB7B /* O06 東門.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O06 東門.gpx"; sourceTree = "<group>"; };
+		D3B28524285DEAA60001FB7B /* O07 忠孝新生.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O07 忠孝新生.gpx"; sourceTree = "<group>"; };
+		D3B28525285DEAA60001FB7B /* O05 古亭.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O05 古亭.gpx"; sourceTree = "<group>"; };
+		D3B28526285DEAA60001FB7B /* O03 永安市場.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O03 永安市場.gpx"; sourceTree = "<group>"; };
+		D3B28527285DEAA60001FB7B /* O09 行天宮.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O09 行天宮.gpx"; sourceTree = "<group>"; };
+		D3B28528285DEAA60001FB7B /* O04 頂溪.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O04 頂溪.gpx"; sourceTree = "<group>"; };
+		D3B28529285DEAA60001FB7B /* O10 中山國小.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O10 中山國小.gpx"; sourceTree = "<group>"; };
+		D3B2852A285DEAA60001FB7B /* O08 松江南京.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "O08 松江南京.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +74,14 @@
 			children = (
 				D30FB8501F74B49800F211BE /* AppDelegate.swift */,
 				D30FB8521F74B49800F211BE /* ViewController.swift */,
+				D3B28526285DEAA60001FB7B /* O03 永安市場.gpx */,
+				D3B28528285DEAA60001FB7B /* O04 頂溪.gpx */,
+				D3B28525285DEAA60001FB7B /* O05 古亭.gpx */,
+				D3B28523285DEAA60001FB7B /* O06 東門.gpx */,
+				D3B28524285DEAA60001FB7B /* O07 忠孝新生.gpx */,
+				D3B2852A285DEAA60001FB7B /* O08 松江南京.gpx */,
+				D3B28527285DEAA60001FB7B /* O09 行天宮.gpx */,
+				D3B28529285DEAA60001FB7B /* O10 中山國小.gpx */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
@@ -128,7 +152,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				D30FB85E1F74B49800F211BE /* LaunchScreen.storyboard in Resources */,
+				D3B2852E285DEAA60001FB7B /* O03 永安市場.gpx in Resources */,
+				D3B2852B285DEAA60001FB7B /* O06 東門.gpx in Resources */,
+				D3B28532285DEAA60001FB7B /* O08 松江南京.gpx in Resources */,
+				D3B28531285DEAA60001FB7B /* O10 中山國小.gpx in Resources */,
+				D3B2852F285DEAA60001FB7B /* O09 行天宮.gpx in Resources */,
+				D3B28530285DEAA60001FB7B /* O04 頂溪.gpx in Resources */,
+				D3B2852C285DEAA60001FB7B /* O07 忠孝新生.gpx in Resources */,
 				D30FB85B1F74B49800F211BE /* Assets.xcassets in Resources */,
+				D3B2852D285DEAA60001FB7B /* O05 古亭.gpx in Resources */,
 				D30FB8561F74B49800F211BE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
