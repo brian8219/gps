@@ -13,6 +13,18 @@
 		D30FB8591F74B49800F211BE /* gps.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D30FB8571F74B49800F211BE /* gps.xcdatamodeld */; };
 		D30FB85B1F74B49800F211BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D30FB85A1F74B49800F211BE /* Assets.xcassets */; };
 		D30FB85E1F74B49800F211BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */; };
+		D3B28500285DE3E40001FB7B /* BL08-新埔.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284F4285DE3E40001FB7B /* BL08-新埔.gpx */; };
+		D3B28501285DE3E40001FB7B /* BL10-龍山寺.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284F5285DE3E40001FB7B /* BL10-龍山寺.gpx */; };
+		D3B28502285DE3E40001FB7B /* BL11-西門.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284F6285DE3E40001FB7B /* BL11-西門.gpx */; };
+		D3B28503285DE3E40001FB7B /* BL13-善導寺 .gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284F7285DE3E40001FB7B /* BL13-善導寺 .gpx */; };
+		D3B28504285DE3E40001FB7B /* BL16-忠孝敦化.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284F8285DE3E40001FB7B /* BL16-忠孝敦化.gpx */; };
+		D3B28505285DE3E40001FB7B /* BL18-市政府.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284F9285DE3E40001FB7B /* BL18-市政府.gpx */; };
+		D3B28506285DE3E40001FB7B /* BL15-忠孝復興.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284FA285DE3E40001FB7B /* BL15-忠孝復興.gpx */; };
+		D3B28507285DE3E40001FB7B /* BL14-忠孝新生.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284FB285DE3E40001FB7B /* BL14-忠孝新生.gpx */; };
+		D3B28508285DE3E40001FB7B /* BL17-國父紀念館.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284FC285DE3E40001FB7B /* BL17-國父紀念館.gpx */; };
+		D3B28509285DE3E40001FB7B /* BL09-江子翠.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284FD285DE3E40001FB7B /* BL09-江子翠.gpx */; };
+		D3B2850A285DE3E40001FB7B /* BL12-台北火車站.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284FE285DE3E40001FB7B /* BL12-台北火車站.gpx */; };
+		D3B2850B285DE3E40001FB7B /* BL07-板橋.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B284FF285DE3E40001FB7B /* BL07-板橋.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,18 @@
 		D30FB85A1F74B49800F211BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3B284F4285DE3E40001FB7B /* BL08-新埔.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL08-新埔.gpx"; sourceTree = "<group>"; };
+		D3B284F5285DE3E40001FB7B /* BL10-龍山寺.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL10-龍山寺.gpx"; sourceTree = "<group>"; };
+		D3B284F6285DE3E40001FB7B /* BL11-西門.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL11-西門.gpx"; sourceTree = "<group>"; };
+		D3B284F7285DE3E40001FB7B /* BL13-善導寺 .gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL13-善導寺 .gpx"; sourceTree = "<group>"; };
+		D3B284F8285DE3E40001FB7B /* BL16-忠孝敦化.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL16-忠孝敦化.gpx"; sourceTree = "<group>"; };
+		D3B284F9285DE3E40001FB7B /* BL18-市政府.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL18-市政府.gpx"; sourceTree = "<group>"; };
+		D3B284FA285DE3E40001FB7B /* BL15-忠孝復興.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL15-忠孝復興.gpx"; sourceTree = "<group>"; };
+		D3B284FB285DE3E40001FB7B /* BL14-忠孝新生.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL14-忠孝新生.gpx"; sourceTree = "<group>"; };
+		D3B284FC285DE3E40001FB7B /* BL17-國父紀念館.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL17-國父紀念館.gpx"; sourceTree = "<group>"; };
+		D3B284FD285DE3E40001FB7B /* BL09-江子翠.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL09-江子翠.gpx"; sourceTree = "<group>"; };
+		D3B284FE285DE3E40001FB7B /* BL12-台北火車站.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL12-台北火車站.gpx"; sourceTree = "<group>"; };
+		D3B284FF285DE3E40001FB7B /* BL07-板橋.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL07-板橋.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +83,18 @@
 				D30FB8501F74B49800F211BE /* AppDelegate.swift */,
 				D30FB8521F74B49800F211BE /* ViewController.swift */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
+				D3B284FF285DE3E40001FB7B /* BL07-板橋.gpx */,
+				D3B284F4285DE3E40001FB7B /* BL08-新埔.gpx */,
+				D3B284FD285DE3E40001FB7B /* BL09-江子翠.gpx */,
+				D3B284F5285DE3E40001FB7B /* BL10-龍山寺.gpx */,
+				D3B284F6285DE3E40001FB7B /* BL11-西門.gpx */,
+				D3B284FE285DE3E40001FB7B /* BL12-台北火車站.gpx */,
+				D3B284F7285DE3E40001FB7B /* BL13-善導寺 .gpx */,
+				D3B284FB285DE3E40001FB7B /* BL14-忠孝新生.gpx */,
+				D3B284FA285DE3E40001FB7B /* BL15-忠孝復興.gpx */,
+				D3B284F8285DE3E40001FB7B /* BL16-忠孝敦化.gpx */,
+				D3B284FC285DE3E40001FB7B /* BL17-國父紀念館.gpx */,
+				D3B284F9285DE3E40001FB7B /* BL18-市政府.gpx */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
 				D30FB85F1F74B49800F211BE /* Info.plist */,
@@ -127,9 +163,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3B28505285DE3E40001FB7B /* BL18-市政府.gpx in Resources */,
+				D3B28507285DE3E40001FB7B /* BL14-忠孝新生.gpx in Resources */,
+				D3B28504285DE3E40001FB7B /* BL16-忠孝敦化.gpx in Resources */,
 				D30FB85E1F74B49800F211BE /* LaunchScreen.storyboard in Resources */,
 				D30FB85B1F74B49800F211BE /* Assets.xcassets in Resources */,
+				D3B28506285DE3E40001FB7B /* BL15-忠孝復興.gpx in Resources */,
+				D3B28503285DE3E40001FB7B /* BL13-善導寺 .gpx in Resources */,
+				D3B28501285DE3E40001FB7B /* BL10-龍山寺.gpx in Resources */,
+				D3B28502285DE3E40001FB7B /* BL11-西門.gpx in Resources */,
+				D3B2850A285DE3E40001FB7B /* BL12-台北火車站.gpx in Resources */,
+				D3B28500285DE3E40001FB7B /* BL08-新埔.gpx in Resources */,
+				D3B28509285DE3E40001FB7B /* BL09-江子翠.gpx in Resources */,
+				D3B2850B285DE3E40001FB7B /* BL07-板橋.gpx in Resources */,
 				D30FB8561F74B49800F211BE /* Main.storyboard in Resources */,
+				D3B28508285DE3E40001FB7B /* BL17-國父紀念館.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
