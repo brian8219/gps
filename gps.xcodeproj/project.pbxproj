@@ -13,6 +13,11 @@
 		D30FB8591F74B49800F211BE /* gps.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D30FB8571F74B49800F211BE /* gps.xcdatamodeld */; };
 		D30FB85B1F74B49800F211BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D30FB85A1F74B49800F211BE /* Assets.xcassets */; };
 		D30FB85E1F74B49800F211BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */; };
+		D3B28538285DEC0F0001FB7B /* BR11-南京復興.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28533285DEC0F0001FB7B /* BR11-南京復興.gpx */; };
+		D3B28539285DEC0F0001FB7B /* BR10-忠孝復興.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28534285DEC0F0001FB7B /* BR10-忠孝復興.gpx */; };
+		D3B2853A285DEC0F0001FB7B /* BR08-科技大樓.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28535285DEC0F0001FB7B /* BR08-科技大樓.gpx */; };
+		D3B2853B285DEC0F0001FB7B /* BR09-大安.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28536285DEC0F0001FB7B /* BR09-大安.gpx */; };
+		D3B2853C285DEC0F0001FB7B /* BR12-中山國中.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3B28537285DEC0F0001FB7B /* BR12-中山國中.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,13 @@
 		D30FB85A1F74B49800F211BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3B28533285DEC0F0001FB7B /* BR11-南京復興.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BR11-南京復興.gpx"; sourceTree = "<group>"; };
+		D3B28534285DEC0F0001FB7B /* BR10-忠孝復興.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BR10-忠孝復興.gpx"; sourceTree = "<group>"; };
+		D3B28535285DEC0F0001FB7B /* BR08-科技大樓.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BR08-科技大樓.gpx"; sourceTree = "<group>"; };
+		D3B28536285DEC0F0001FB7B /* BR09-大安.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BR09-大安.gpx"; sourceTree = "<group>"; };
+		D3B28537285DEC0F0001FB7B /* BR12-中山國中.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BR12-中山國中.gpx"; sourceTree = "<group>"; };
+		D3B2853D285DEC4B0001FB7B /* BR13-松山機場.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "BR13-松山機場.gpx"; sourceTree = "<group>"; };
+		D3B2853E285DEC5A0001FB7B /* BR14-大直.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "BR14-大直.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,13 @@
 			children = (
 				D30FB8501F74B49800F211BE /* AppDelegate.swift */,
 				D30FB8521F74B49800F211BE /* ViewController.swift */,
+				D3B28535285DEC0F0001FB7B /* BR08-科技大樓.gpx */,
+				D3B28536285DEC0F0001FB7B /* BR09-大安.gpx */,
+				D3B28534285DEC0F0001FB7B /* BR10-忠孝復興.gpx */,
+				D3B28533285DEC0F0001FB7B /* BR11-南京復興.gpx */,
+				D3B28537285DEC0F0001FB7B /* BR12-中山國中.gpx */,
+				D3B2853D285DEC4B0001FB7B /* BR13-松山機場.gpx */,
+				D3B2853E285DEC5A0001FB7B /* BR14-大直.gpx */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
@@ -127,9 +146,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3B28538285DEC0F0001FB7B /* BR11-南京復興.gpx in Resources */,
+				D3B2853A285DEC0F0001FB7B /* BR08-科技大樓.gpx in Resources */,
+				D3B2853B285DEC0F0001FB7B /* BR09-大安.gpx in Resources */,
 				D30FB85E1F74B49800F211BE /* LaunchScreen.storyboard in Resources */,
+				D3B28539285DEC0F0001FB7B /* BR10-忠孝復興.gpx in Resources */,
 				D30FB85B1F74B49800F211BE /* Assets.xcassets in Resources */,
 				D30FB8561F74B49800F211BE /* Main.storyboard in Resources */,
+				D3B2853C285DEC0F0001FB7B /* BR12-中山國中.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
