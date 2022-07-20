@@ -13,6 +13,7 @@
 		D30FB8591F74B49800F211BE /* gps.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D30FB8571F74B49800F211BE /* gps.xcdatamodeld */; };
 		D30FB85B1F74B49800F211BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D30FB85A1F74B49800F211BE /* Assets.xcassets */; };
 		D30FB85E1F74B49800F211BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */; };
+		D3C949712887A1B1000F9681 /* 28-淡水.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3C949702887A1B1000F9681 /* 28-淡水.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		D3B284F0285CC9080001FB7B /* 11-中山.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "11-中山.gpx"; sourceTree = "<group>"; };
 		D3B284F2285CC9A50001FB7B /* 15-劍潭.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "15-劍潭.gpx"; sourceTree = "<group>"; };
 		D3B284F3285CC9B40001FB7B /* 16-士林.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "16-士林.gpx"; sourceTree = "<group>"; };
+		D3C949702887A1B1000F9681 /* 28-淡水.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "28-淡水.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				D3B284EB285CC8E10001FB7B /* 14-圓山.gpx */,
 				D3B284F2285CC9A50001FB7B /* 15-劍潭.gpx */,
 				D3B284F3285CC9B40001FB7B /* 16-士林.gpx */,
+				D3C949702887A1B1000F9681 /* 28-淡水.gpx */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
@@ -157,6 +160,7 @@
 			files = (
 				D30FB85E1F74B49800F211BE /* LaunchScreen.storyboard in Resources */,
 				D30FB85B1F74B49800F211BE /* Assets.xcassets in Resources */,
+				D3C949712887A1B1000F9681 /* 28-淡水.gpx in Resources */,
 				D30FB8561F74B49800F211BE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
