@@ -29,6 +29,10 @@
 		D30FB85A1F74B49800F211BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D38A1120297E9FEA00B5987D /* BR15-劍南路.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "BR15-劍南路.gpx"; sourceTree = "<group>"; };
+		D38A1121297EA00A00B5987D /* BR16-西湖.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "BR16-西湖.gpx"; sourceTree = "<group>"; };
+		D38A1122297EA02000B5987D /* BR06-麟光.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "BR06-麟光.gpx"; sourceTree = "<group>"; };
+		D38A1123297EA02C00B5987D /* BR07-六張犁.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "BR07-六張犁.gpx"; sourceTree = "<group>"; };
 		D3B28533285DEC0F0001FB7B /* BR11-南京復興.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BR11-南京復興.gpx"; sourceTree = "<group>"; };
 		D3B28534285DEC0F0001FB7B /* BR10-忠孝復興.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BR10-忠孝復興.gpx"; sourceTree = "<group>"; };
 		D3B28535285DEC0F0001FB7B /* BR08-科技大樓.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BR08-科技大樓.gpx"; sourceTree = "<group>"; };
@@ -77,6 +81,10 @@
 				D3B28537285DEC0F0001FB7B /* BR12-中山國中.gpx */,
 				D3B2853D285DEC4B0001FB7B /* BR13-松山機場.gpx */,
 				D3B2853E285DEC5A0001FB7B /* BR14-大直.gpx */,
+				D38A1120297E9FEA00B5987D /* BR15-劍南路.gpx */,
+				D38A1121297EA00A00B5987D /* BR16-西湖.gpx */,
+				D38A1123297EA02C00B5987D /* BR07-六張犁.gpx */,
+				D38A1122297EA02000B5987D /* BR06-麟光.gpx */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
