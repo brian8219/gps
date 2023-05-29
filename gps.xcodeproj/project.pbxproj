@@ -27,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D30785212D5C954700F4EBC4 /* G12-西門5.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門5.gpx"; sourceTree = "<group>"; };
 		D30FB84D1F74B49800F211BE /* gps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gps.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D30FB8501F74B49800F211BE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D30FB8521F74B49800F211BE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,6 +36,9 @@
 		D30FB85A1F74B49800F211BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D32BD7422D40EA6700026E1F /* G12-西門2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門2.gpx"; sourceTree = "<group>"; };
+		D32BD7432D40EB5100026E1F /* G12-西門3.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門3.gpx"; sourceTree = "<group>"; };
+		D32BD7442D40EBCA00026E1F /* G12-西門4.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門4.gpx"; sourceTree = "<group>"; };
 		D3B2850C285DE7F00001FB7B /* G07-公館.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G07-公館.gpx"; sourceTree = "<group>"; };
 		D3B2850D285DE7F00001FB7B /* G14-中山.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G14-中山.gpx"; sourceTree = "<group>"; };
 		D3B2850E285DE7F00001FB7B /* G18-南京三民.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G18-南京三民.gpx"; sourceTree = "<group>"; };
@@ -47,6 +51,7 @@
 		D3B28515285DE7F00001FB7B /* G13-北門.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G13-北門.gpx"; sourceTree = "<group>"; };
 		D3B28516285DE7F00001FB7B /* G11-小南門.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "G11-小南門.gpx"; sourceTree = "<group>"; };
 		D3B28522285DE8E10001FB7B /* G16-南京復興.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G16-南京復興.gpx"; sourceTree = "<group>"; };
+		D3C334572CA6931700E68753 /* G19-松山.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G19-松山.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,12 +92,17 @@
 				D3B28512285DE7F00001FB7B /* G10-中正紀念堂.gpx */,
 				D3B28516285DE7F00001FB7B /* G11-小南門.gpx */,
 				D3B28510285DE7F00001FB7B /* G12-西門.gpx */,
+				D32BD7422D40EA6700026E1F /* G12-西門2.gpx */,
+				D32BD7432D40EB5100026E1F /* G12-西門3.gpx */,
+				D32BD7442D40EBCA00026E1F /* G12-西門4.gpx */,
+				D30785212D5C954700F4EBC4 /* G12-西門5.gpx */,
 				D3B28515285DE7F00001FB7B /* G13-北門.gpx */,
 				D3B2850D285DE7F00001FB7B /* G14-中山.gpx */,
 				D3B28514285DE7F00001FB7B /* G15-松江南京.gpx */,
 				D3B28522285DE8E10001FB7B /* G16-南京復興.gpx */,
 				D3B2850F285DE7F00001FB7B /* G17-台北小巨蛋.gpx */,
 				D3B2850E285DE7F00001FB7B /* G18-南京三民.gpx */,
+				D3C334572CA6931700E68753 /* G19-松山.gpx */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
