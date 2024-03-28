@@ -30,6 +30,11 @@
 		D3B2850C285DE7F00001FB7B /* A台北圓心.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A台北圓心.gpx"; sourceTree = "<group>"; };
 		D3B28511285DE7F00001FB7B /* A桃園圓心.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A桃園圓心.gpx"; sourceTree = "<group>"; };
 		D3B28513285DE7F00001FB7B /* A新竹圓心.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A新竹圓心.gpx"; sourceTree = "<group>"; };
+		D3B6D5FB2BB4182900AC9576 /* 高雄mike.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "高雄mike.gpx"; sourceTree = "<group>"; };
+		D3B6D5FC2BB41AAB00AC9576 /* 1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = 1.gpx; sourceTree = "<group>"; };
+		D3B6D5FD2BB41AB700AC9576 /* 2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = 2.gpx; sourceTree = "<group>"; };
+		D3B6D5FE2BB41AE900AC9576 /* 3.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = 3.gpx; sourceTree = "<group>"; };
+		D3B6D5FF2BB41AEF00AC9576 /* 4.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = 4.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +72,11 @@
 				D3B2850C285DE7F00001FB7B /* A台北圓心.gpx */,
 				D3B28511285DE7F00001FB7B /* A桃園圓心.gpx */,
 				D3B28513285DE7F00001FB7B /* A新竹圓心.gpx */,
+				D3B6D5FB2BB4182900AC9576 /* 高雄mike.gpx */,
+				D3B6D5FC2BB41AAB00AC9576 /* 1.gpx */,
+				D3B6D5FD2BB41AB700AC9576 /* 2.gpx */,
+				D3B6D5FE2BB41AE900AC9576 /* 3.gpx */,
+				D3B6D5FF2BB41AEF00AC9576 /* 4.gpx */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
