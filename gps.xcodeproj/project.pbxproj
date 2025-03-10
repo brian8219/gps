@@ -39,6 +39,7 @@
 		D3B6D5FD2BB41AB700AC9576 /* 信義家.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "信義家.gpx"; sourceTree = "<group>"; };
 		D3B6D5FE2BB41AE900AC9576 /* 新加坡.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "新加坡.gpx"; sourceTree = "<group>"; };
 		D3B6D5FF2BB41AEF00AC9576 /* 高杰.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "高杰.gpx"; sourceTree = "<group>"; };
+		D3F6000F2D7E7C1A0029B6E4 /* 布里斯本.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "布里斯本.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 				D3B6D5FB2BB4182900AC9576 /* 高雄mike.gpx */,
 				D3B6D5FC2BB41AAB00AC9576 /* 墨爾本.gpx */,
 				D30785222D645E2000F4EBC4 /* 阿德雷德.gpx */,
+				D3F6000F2D7E7C1A0029B6E4 /* 布里斯本.gpx */,
 				D36332882CD1E119007AEE84 /* 天母.gpx */,
 				D3B6D5FD2BB41AB700AC9576 /* 信義家.gpx */,
 				D3B6D5FE2BB41AE900AC9576 /* 新加坡.gpx */,
