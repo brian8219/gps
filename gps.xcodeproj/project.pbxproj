@@ -38,6 +38,7 @@
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D34830FC2DCEFBBE00717227 /* BL20-後山埤.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "BL20-後山埤.gpx"; sourceTree = "<group>"; };
+		D3140A072E3736C700F3329D /* BL03-土城.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "BL03-土城.gpx"; sourceTree = "<group>"; };
 		D3B284F4285DE3E40001FB7B /* BL08-新埔.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL08-新埔.gpx"; sourceTree = "<group>"; };
 		D3B284F5285DE3E40001FB7B /* BL10-龍山寺.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL10-龍山寺.gpx"; sourceTree = "<group>"; };
 		D3B284F6285DE3E40001FB7B /* BL11-西門.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "BL11-西門.gpx"; sourceTree = "<group>"; };
@@ -86,6 +87,7 @@
 				D30FB8521F74B49800F211BE /* ViewController.swift */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
 				D3B284FF285DE3E40001FB7B /* BL07-板橋.gpx */,
+				D3140A072E3736C700F3329D /* BL03-土城.gpx */,
 				D3B284F4285DE3E40001FB7B /* BL08-新埔.gpx */,
 				D3B284FD285DE3E40001FB7B /* BL09-江子翠.gpx */,
 				D3B284F5285DE3E40001FB7B /* BL10-龍山寺.gpx */,
