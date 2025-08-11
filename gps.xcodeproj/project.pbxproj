@@ -33,6 +33,7 @@
 		D36332882CD1E119007AEE84 /* 天母.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "天母.gpx"; sourceTree = "<group>"; };
 		D36F74812E40822100B011E0 /* 中壢.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "中壢.gpx"; sourceTree = "<group>"; };
 		D36F74832E45C6EB00B011E0 /* brian2taiwan.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = brian2taiwan.gpx; sourceTree = "<group>"; };
+		D36F74842E49984C00B011E0 /* 龍潭.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "龍潭.gpx"; sourceTree = "<group>"; };
 		D3B2850C285DE7F00001FB7B /* A台北圓心.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A台北圓心.gpx"; sourceTree = "<group>"; };
 		D3B28511285DE7F00001FB7B /* A桃園圓心.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A桃園圓心.gpx"; sourceTree = "<group>"; };
 		D3B28513285DE7F00001FB7B /* A新竹圓心.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A新竹圓心.gpx"; sourceTree = "<group>"; };
@@ -76,6 +77,7 @@
 			children = (
 				D30FB8501F74B49800F211BE /* AppDelegate.swift */,
 				D30FB8521F74B49800F211BE /* ViewController.swift */,
+				D36F74842E49984C00B011E0 /* 龍潭.gpx */,
 				D3B2850C285DE7F00001FB7B /* A台北圓心.gpx */,
 				D3B28511285DE7F00001FB7B /* A桃園圓心.gpx */,
 				D3B28513285DE7F00001FB7B /* A新竹圓心.gpx */,
