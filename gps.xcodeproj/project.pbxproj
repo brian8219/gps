@@ -29,6 +29,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D306B9C22E544E660059021D /* BL21-昆陽.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "BL21-昆陽.gpx"; sourceTree = "<group>"; };
+		D306B9C32E544F080059021D /* BL19-永春.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "BL19-永春.gpx"; sourceTree = "<group>"; };
 		D30FB84D1F74B49800F211BE /* gps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gps.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D30FB8501F74B49800F211BE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D30FB8521F74B49800F211BE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,7 +102,9 @@
 				D3B284F8285DE3E40001FB7B /* BL16-忠孝敦化.gpx */,
 				D3B284FC285DE3E40001FB7B /* BL17-國父紀念館.gpx */,
 				D3B284F9285DE3E40001FB7B /* BL18-市政府.gpx */,
+				D306B9C32E544F080059021D /* BL19-永春.gpx */,
 				D34830FC2DCEFBBE00717227 /* BL20-後山埤.gpx */,
+				D306B9C22E544E660059021D /* BL21-昆陽.gpx */,
 				D36F74822E41F47200B011E0 /* BL24-南港.gpx */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
