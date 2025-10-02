@@ -30,6 +30,8 @@
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D33D13FC2D70083200A8FD06 /* 加拿大維多利亞.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "加拿大維多利亞.gpx"; sourceTree = "<group>"; };
+		D340703C2E8E279400A0EFD6 /* 饒河夜市豪宅.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "饒河夜市豪宅.gpx"; sourceTree = "<group>"; };
+		D342DC9C2E8E0738002E069B /* 被拒絕外國人.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "被拒絕外國人.gpx"; sourceTree = "<group>"; };
 		D36332882CD1E119007AEE84 /* 天母.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "天母.gpx"; sourceTree = "<group>"; };
 		D36F74812E40822100B011E0 /* 中壢.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "中壢.gpx"; sourceTree = "<group>"; };
 		D36F74832E45C6EB00B011E0 /* brian2taiwan.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = brian2taiwan.gpx; sourceTree = "<group>"; };
@@ -78,8 +80,10 @@
 				D30FB8501F74B49800F211BE /* AppDelegate.swift */,
 				D30FB8521F74B49800F211BE /* ViewController.swift */,
 				D36F74842E49984C00B011E0 /* 龍潭.gpx */,
+				D342DC9C2E8E0738002E069B /* 被拒絕外國人.gpx */,
 				D3B2850C285DE7F00001FB7B /* A台北圓心.gpx */,
 				D3B28511285DE7F00001FB7B /* A桃園圓心.gpx */,
+				D340703C2E8E279400A0EFD6 /* 饒河夜市豪宅.gpx */,
 				D3B28513285DE7F00001FB7B /* A新竹圓心.gpx */,
 				D3B6D5FB2BB4182900AC9576 /* 高雄mike.gpx */,
 				D36F74812E40822100B011E0 /* 中壢.gpx */,
