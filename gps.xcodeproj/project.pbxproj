@@ -24,31 +24,31 @@
 		D30FB85A1F74B49800F211BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D3B0A1DF2EAA0FC30054F6F8 /* G12-西門-20.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門-20.gpx"; sourceTree = "<group>"; };
-		D3B0A1E02EAA0FDF0054F6F8 /* G12-西門-10.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門-10.gpx"; sourceTree = "<group>"; };
-		D3B0A1E12EAA0FFE0054F6F8 /* G12-西門-21.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門-21.gpx"; sourceTree = "<group>"; };
-		D3B0A1E22EAA100A0054F6F8 /* G12-西門-11.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門-11.gpx"; sourceTree = "<group>"; };
-		D3B0A1E32EAA10190054F6F8 /* G12-西門-22.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門-22.gpx"; sourceTree = "<group>"; };
-		D3B0A1E42EAA10280054F6F8 /* G12-西門-12.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門-12.gpx"; sourceTree = "<group>"; };
-		D3B0A1E52EAA10350054F6F8 /* G12-西門02.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門02.gpx"; sourceTree = "<group>"; };
-		D3B0A1E62EAA103E0054F6F8 /* G12-西門01.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門01.gpx"; sourceTree = "<group>"; };
-		D3B0A1E72EAA10510054F6F8 /* G12-西門10.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門10.gpx"; sourceTree = "<group>"; };
-		D3B0A1E82EAA107D0054F6F8 /* G12-西門00.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門00.gpx"; sourceTree = "<group>"; };
-		D3B0A1E92EAA10A50054F6F8 /* G12-西門11.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門11.gpx"; sourceTree = "<group>"; };
-		D3B0A1EA2EAA10AD0054F6F8 /* G12-西門12.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門12.gpx"; sourceTree = "<group>"; };
-		D3B0A1EB2EAA10D10054F6F8 /* G12-西門2-1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門2-1.gpx"; sourceTree = "<group>"; };
-		D3B0A1EC2EAA10DC0054F6F8 /* G12-西門2-2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門2-2.gpx"; sourceTree = "<group>"; };
-		D3B0A1ED2EAA10E70054F6F8 /* G12-西門1-1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門1-1.gpx"; sourceTree = "<group>"; };
-		D3B0A1EE2EAA10ED0054F6F8 /* G12-西門1-2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門1-2.gpx"; sourceTree = "<group>"; };
-		D3B0A1EF2EAA10F80054F6F8 /* G12-西門0-1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門0-1.gpx"; sourceTree = "<group>"; };
-		D3B0A1F02EAA11020054F6F8 /* G12-西門0-2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門0-2.gpx"; sourceTree = "<group>"; };
-		D3B0A1F12EAA112B0054F6F8 /* G12-西門-2-1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門-2-1.gpx"; sourceTree = "<group>"; };
-		D3B0A1F22EAA11330054F6F8 /* G12-西門-2-2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門-2-2.gpx"; sourceTree = "<group>"; };
-		D3B0A1F32EAA11500054F6F8 /* G12-西門-1-1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門-1-1.gpx"; sourceTree = "<group>"; };
-		D3B0A1F42EAA11580054F6F8 /* G12-西門-1-2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門-1-2.gpx"; sourceTree = "<group>"; };
-		D3B0A1F52EAA11D30054F6F8 /* G12-西門20.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門20.gpx"; sourceTree = "<group>"; };
-		D3B0A1F62EAA11DE0054F6F8 /* G12-西門21.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門21.gpx"; sourceTree = "<group>"; };
-		D3B0A1F72EAA11E60054F6F8 /* G12-西門22.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "G12-西門22.gpx"; sourceTree = "<group>"; };
+		D3B0A1DF2EAA0FC30054F6F8 /* 西門(23)-2+0.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(23)-2+0.gpx"; sourceTree = "<group>"; };
+		D3B0A1E02EAA0FDF0054F6F8 /* 西門(18)-1+0.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(18)-1+0.gpx"; sourceTree = "<group>"; };
+		D3B0A1E12EAA0FFE0054F6F8 /* 西門(22)-2+1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(22)-2+1.gpx"; sourceTree = "<group>"; };
+		D3B0A1E22EAA100A0054F6F8 /* 西門(19)-1+1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(19)-1+1.gpx"; sourceTree = "<group>"; };
+		D3B0A1E32EAA10190054F6F8 /* 西門(21)-2+2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(21)-2+2.gpx"; sourceTree = "<group>"; };
+		D3B0A1E42EAA10280054F6F8 /* 西門(20)-1+2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(20)-1+2.gpx"; sourceTree = "<group>"; };
+		D3B0A1E52EAA10350054F6F8 /* 西門(11)+0+2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(11)+0+2.gpx"; sourceTree = "<group>"; };
+		D3B0A1E62EAA103E0054F6F8 /* 西門(12)+0+1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(12)+0+1.gpx"; sourceTree = "<group>"; };
+		D3B0A1E72EAA10510054F6F8 /* 西門(08)+1+0.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(08)+1+0.gpx"; sourceTree = "<group>"; };
+		D3B0A1E82EAA107D0054F6F8 /* 西門(13)+0+0.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(13)+0+0.gpx"; sourceTree = "<group>"; };
+		D3B0A1E92EAA10A50054F6F8 /* 西門(09)+1+1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(09)+1+1.gpx"; sourceTree = "<group>"; };
+		D3B0A1EA2EAA10AD0054F6F8 /* 西門(10)+1+2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(10)+1+2.gpx"; sourceTree = "<group>"; };
+		D3B0A1EB2EAA10D10054F6F8 /* 西門(04)+2-1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(04)+2-1.gpx"; sourceTree = "<group>"; };
+		D3B0A1EC2EAA10DC0054F6F8 /* 西門(05)+2-2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(05)+2-2.gpx"; sourceTree = "<group>"; };
+		D3B0A1ED2EAA10E70054F6F8 /* 西門(07)+1-1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(07)+1-1.gpx"; sourceTree = "<group>"; };
+		D3B0A1EE2EAA10ED0054F6F8 /* 西門(06)+1-2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(06)+1-2.gpx"; sourceTree = "<group>"; };
+		D3B0A1EF2EAA10F80054F6F8 /* 西門(14)+0-1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(14)+0-1.gpx"; sourceTree = "<group>"; };
+		D3B0A1F02EAA11020054F6F8 /* 西門(15)+0-2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(15)+0-2.gpx"; sourceTree = "<group>"; };
+		D3B0A1F12EAA112B0054F6F8 /* 西門(24)-2-1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(24)-2-1.gpx"; sourceTree = "<group>"; };
+		D3B0A1F22EAA11330054F6F8 /* 西門(25)-2-2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(25)-2-2.gpx"; sourceTree = "<group>"; };
+		D3B0A1F32EAA11500054F6F8 /* 西門(17)-1-1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(17)-1-1.gpx"; sourceTree = "<group>"; };
+		D3B0A1F42EAA11580054F6F8 /* 西門(16)-1-2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(16)-1-2.gpx"; sourceTree = "<group>"; };
+		D3B0A1F52EAA11D30054F6F8 /* 西門(03)+2+0.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(03)+2+0.gpx"; sourceTree = "<group>"; };
+		D3B0A1F62EAA11DE0054F6F8 /* 西門(02)+2+1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(02)+2+1.gpx"; sourceTree = "<group>"; };
+		D3B0A1F72EAA11E60054F6F8 /* 西門(01)+2+2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西門(01)+2+2.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,31 +83,31 @@
 			children = (
 				D30FB8501F74B49800F211BE /* AppDelegate.swift */,
 				D30FB8521F74B49800F211BE /* ViewController.swift */,
-				D3B0A1F22EAA11330054F6F8 /* G12-西門-2-2.gpx */,
-				D3B0A1F12EAA112B0054F6F8 /* G12-西門-2-1.gpx */,
-				D3B0A1DF2EAA0FC30054F6F8 /* G12-西門-20.gpx */,
-				D3B0A1E12EAA0FFE0054F6F8 /* G12-西門-21.gpx */,
-				D3B0A1E32EAA10190054F6F8 /* G12-西門-22.gpx */,
-				D3B0A1E42EAA10280054F6F8 /* G12-西門-12.gpx */,
-				D3B0A1E22EAA100A0054F6F8 /* G12-西門-11.gpx */,
-				D3B0A1E02EAA0FDF0054F6F8 /* G12-西門-10.gpx */,
-				D3B0A1F32EAA11500054F6F8 /* G12-西門-1-1.gpx */,
-				D3B0A1F42EAA11580054F6F8 /* G12-西門-1-2.gpx */,
-				D3B0A1E52EAA10350054F6F8 /* G12-西門02.gpx */,
-				D3B0A1E62EAA103E0054F6F8 /* G12-西門01.gpx */,
-				D3B0A1E82EAA107D0054F6F8 /* G12-西門00.gpx */,
-				D3B0A1F02EAA11020054F6F8 /* G12-西門0-2.gpx */,
-				D3B0A1EF2EAA10F80054F6F8 /* G12-西門0-1.gpx */,
-				D3B0A1EC2EAA10DC0054F6F8 /* G12-西門2-2.gpx */,
-				D3B0A1EB2EAA10D10054F6F8 /* G12-西門2-1.gpx */,
-				D3B0A1F52EAA11D30054F6F8 /* G12-西門20.gpx */,
-				D3B0A1F62EAA11DE0054F6F8 /* G12-西門21.gpx */,
-				D3B0A1F72EAA11E60054F6F8 /* G12-西門22.gpx */,
-				D3B0A1EE2EAA10ED0054F6F8 /* G12-西門1-2.gpx */,
-				D3B0A1E72EAA10510054F6F8 /* G12-西門10.gpx */,
-				D3B0A1E92EAA10A50054F6F8 /* G12-西門11.gpx */,
-				D3B0A1ED2EAA10E70054F6F8 /* G12-西門1-1.gpx */,
-				D3B0A1EA2EAA10AD0054F6F8 /* G12-西門12.gpx */,
+				D3B0A1F72EAA11E60054F6F8 /* 西門(01)+2+2.gpx */,
+				D3B0A1F62EAA11DE0054F6F8 /* 西門(02)+2+1.gpx */,
+				D3B0A1F52EAA11D30054F6F8 /* 西門(03)+2+0.gpx */,
+				D3B0A1EB2EAA10D10054F6F8 /* 西門(04)+2-1.gpx */,
+				D3B0A1EC2EAA10DC0054F6F8 /* 西門(05)+2-2.gpx */,
+				D3B0A1EE2EAA10ED0054F6F8 /* 西門(06)+1-2.gpx */,
+				D3B0A1ED2EAA10E70054F6F8 /* 西門(07)+1-1.gpx */,
+				D3B0A1E72EAA10510054F6F8 /* 西門(08)+1+0.gpx */,
+				D3B0A1E92EAA10A50054F6F8 /* 西門(09)+1+1.gpx */,
+				D3B0A1EA2EAA10AD0054F6F8 /* 西門(10)+1+2.gpx */,
+				D3B0A1E52EAA10350054F6F8 /* 西門(11)+0+2.gpx */,
+				D3B0A1E62EAA103E0054F6F8 /* 西門(12)+0+1.gpx */,
+				D3B0A1E82EAA107D0054F6F8 /* 西門(13)+0+0.gpx */,
+				D3B0A1EF2EAA10F80054F6F8 /* 西門(14)+0-1.gpx */,
+				D3B0A1F02EAA11020054F6F8 /* 西門(15)+0-2.gpx */,
+				D3B0A1F42EAA11580054F6F8 /* 西門(16)-1-2.gpx */,
+				D3B0A1F32EAA11500054F6F8 /* 西門(17)-1-1.gpx */,
+				D3B0A1E02EAA0FDF0054F6F8 /* 西門(18)-1+0.gpx */,
+				D3B0A1E22EAA100A0054F6F8 /* 西門(19)-1+1.gpx */,
+				D3B0A1E42EAA10280054F6F8 /* 西門(20)-1+2.gpx */,
+				D3B0A1E32EAA10190054F6F8 /* 西門(21)-2+2.gpx */,
+				D3B0A1E12EAA0FFE0054F6F8 /* 西門(22)-2+1.gpx */,
+				D3B0A1DF2EAA0FC30054F6F8 /* 西門(23)-2+0.gpx */,
+				D3B0A1F12EAA112B0054F6F8 /* 西門(24)-2-1.gpx */,
+				D3B0A1F22EAA11330054F6F8 /* 西門(25)-2-2.gpx */,
 				D30FB8541F74B49800F211BE /* Main.storyboard */,
 				D30FB85A1F74B49800F211BE /* Assets.xcassets */,
 				D30FB85C1F74B49800F211BE /* LaunchScreen.storyboard */,
