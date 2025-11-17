@@ -31,6 +31,7 @@
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D32BDF3E2EBDD374007278F0 /* 大阪.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "大阪.gpx"; sourceTree = "<group>"; };
 		D32BDF3F2EBDD49F007278F0 /* 曼谷.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "曼谷.gpx"; sourceTree = "<group>"; };
+		D32BDF402ECABE08007278F0 /* Julio常出現的地方.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Julio常出現的地方.gpx"; sourceTree = "<group>"; };
 		D33D13FC2D70083200A8FD06 /* 加拿大維多利亞.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "加拿大維多利亞.gpx"; sourceTree = "<group>"; };
 		D340703C2E8E279400A0EFD6 /* 饒河夜市豪宅.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "饒河夜市豪宅.gpx"; sourceTree = "<group>"; };
 		D342DC9C2E8E0738002E069B /* 被拒絕外國人.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "被拒絕外國人.gpx"; sourceTree = "<group>"; };
@@ -94,6 +95,7 @@
 				D3B6D5FC2BB41AAB00AC9576 /* 墨爾本.gpx */,
 				D30785222D645E2000F4EBC4 /* 阿德雷德.gpx */,
 				D3F6000F2D7E7C1A0029B6E4 /* 布里斯本.gpx */,
+				D32BDF402ECABE08007278F0 /* Julio常出現的地方.gpx */,
 				D36332882CD1E119007AEE84 /* 天母.gpx */,
 				D3B6D5FD2BB41AB700AC9576 /* 信義家.gpx */,
 				D3B6D5FE2BB41AE900AC9576 /* 新加坡.gpx */,
