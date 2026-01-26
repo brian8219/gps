@@ -29,6 +29,7 @@
 		D30FB85A1F74B49800F211BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D30FB85D1F74B49800F211BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30FB85F1F74B49800F211BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D311475B2F27527700E7C746 /* 海上.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "海上.gpx"; sourceTree = "<group>"; };
 		D32BDF3E2EBDD374007278F0 /* 大阪.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "大阪.gpx"; sourceTree = "<group>"; };
 		D32BDF3F2EBDD49F007278F0 /* 曼谷.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "曼谷.gpx"; sourceTree = "<group>"; };
 		D32BDF402ECABE08007278F0 /* Julio常出現的地方.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Julio常出現的地方.gpx"; sourceTree = "<group>"; };
@@ -84,6 +85,7 @@
 				D30FB8521F74B49800F211BE /* ViewController.swift */,
 				D36F74842E49984C00B011E0 /* 龍潭.gpx */,
 				D342DC9C2E8E0738002E069B /* 被拒絕外國人.gpx */,
+				D311475B2F27527700E7C746 /* 海上.gpx */,
 				D3B2850C285DE7F00001FB7B /* A台北圓心.gpx */,
 				D32BDF3E2EBDD374007278F0 /* 大阪.gpx */,
 				D32BDF3F2EBDD49F007278F0 /* 曼谷.gpx */,
